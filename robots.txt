@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://primkey7607.github.io/portfolio/al-folio/sitemap.xml
+Sitemap: https://primkey7607.github.io/portfolio/sitemap.xml
